@@ -1,9 +1,13 @@
 {
   "expo": {
-    "extra": { "eas": { "projectId": "bda0925d-2f94-498f-a908-3e9e8868d82b"
     "name": "Abonelik Takip",
     "slug": "abonelik-takip",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "bda0925d-2f94-498f-a908-3e9e8868d82b"
+      }
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

@@ -1,14 +1,8 @@
 {
-  "expo": {
-    "name": "Abonelik Takip",
-    "slug": "abonelik-takip",
-    "version": "1.0.0",
-    "android": {
-      "package": "com.ender12.aboneliktakip"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "50054daf-ff48-4a1b-ae47-6340c32c83b9"
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
       }
     }
   }

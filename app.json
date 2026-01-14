@@ -1,8 +1,21 @@
 {
-  "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
+  "expo": {
+    "name": "Abonelik Takip",
+    "slug": "abonelik-takip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.ender12.aboneliktakip",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bda0925d-2f94-498f-a908-3e9e8868d82b"
       }
     }
   }
